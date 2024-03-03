@@ -1,0 +1,4 @@
+Images enhanced with FUnIE_GAN
+Yolov8n trained with both datasets for 100 epochs
+Results in jupyter notebook
+This Enhancement fails
