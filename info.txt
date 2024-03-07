@@ -1,4 +1,4 @@
-Images enhanced with FUnIE_GAN
-Yolov8n trained with both datasets for 100 epochs
-Results in jupyter notebook
-This Enhancement fails
+The enhanced model used is Wavenet
+Github link is https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration
+Enhanced has more Recall and Precision
+Unenhanced has better loss for both train and validation

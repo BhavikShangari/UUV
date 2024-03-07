@@ -12,6 +12,6 @@ roboflow:
   url: https://universe.roboflow.com/brad-dwyer/brackish-underwater/dataset/1
   version: 1
   workspace: brad-dwyer
-test: original_dataset/test/images
-train: original_dataset/train/images
-val: original_dataset/valid/images
+test: UIEB_epoch_1/test/images
+train: UIEB_epoch_1/train/images
+val: UIEB_epoch_1/valid/images
